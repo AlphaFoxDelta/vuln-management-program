@@ -1,0 +1,10 @@
+task,owner,start,end,phase
+Q4 external attack surface scan,secops,2026-10-05,2026-10-16,Discover
+Internal credentialed scan sweep,secops,2026-10-12,2026-10-23,Discover
+Triage new findings,program-owner,2026-10-19,2026-10-23,Discover
+Patch VPN gateways (VULN-001),netops,2026-10-12,2026-10-26,Remediate
+Fix customer portal SQLi (VULN-002),app-team,2026-10-19,2026-11-06,Remediate
+Restrict RDP on jump host (VULN-003),infra,2026-10-26,2026-11-06,Remediate
+Encrypt NAS backups (VULN-006),storage,2026-11-02,2026-11-20,Remediate
+Rescan and verify fixes,secops,2026-11-09,2026-11-20,Verify
+Q4 executive briefing,program-owner,2026-12-07,2026-12-11,Report

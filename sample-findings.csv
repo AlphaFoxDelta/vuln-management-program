@@ -1,0 +1,11 @@
+id,title,severity,discovered,owner,status
+VULN-001,"Unpatched VPN gateway, CVE in CISA KEV",Critical,2026-09-18,netops,Open
+VULN-002,"SQL injection in customer portal",Critical,2026-09-26,app-team,In Progress
+VULN-003,"RDP exposed to internet on jump host",High,2026-08-25,infra,Open
+VULN-004,"Outdated Apache on marketing site",High,2026-09-13,webops,In Progress
+VULN-005,"Missing security headers on intranet apps",Medium,2026-09-01,webops,Open
+VULN-006,"Unencrypted backups on NAS",Medium,2026-06-15,storage,Open
+VULN-007,"Weak TLS cipher on legacy API",Low,2026-09-20,app-team,Open
+VULN-008,"Verbose error messages on login page",Low,2026-03-01,app-team,Open
+VULN-009,"Patched Exchange server",High,2026-08-01,messaging,Closed
+VULN-010,"SMBv1 on legacy billing system",High,2026-07-10,finance-it,Exception
